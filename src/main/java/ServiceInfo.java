@@ -1,5 +1,3 @@
-package Paper1;
-
 import utils.TwoTuple;
 
 import java.io.*;

@@ -1,11 +1,11 @@
-package Paper1;
-
 import org.dom4j.Document;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 import utils.*;
 
-import java.io.*;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.InputStream;
 import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.function.Supplier;

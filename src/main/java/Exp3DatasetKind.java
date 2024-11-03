@@ -1,11 +1,9 @@
-package Paper1;
-
 import java.io.File;
 import java.io.FileWriter;
-import java.util.*;
 import java.text.SimpleDateFormat;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
+import java.util.*;
 
 /**
  * @projectName: CodeForPaper

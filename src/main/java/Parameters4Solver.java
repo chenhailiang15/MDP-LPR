@@ -1,5 +1,3 @@
-package Paper1;
-
 /**
  * @projectName: CodeForPaper
  * @package: Paper1

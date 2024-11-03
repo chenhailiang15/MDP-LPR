@@ -1,7 +1,3 @@
-package Paper1;
-
-import java.util.HashSet;
-
 /**
  * @projectName: CodeForPaper
  * @package: Paper1

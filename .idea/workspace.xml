@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5224bc70-9f3d-4711-8cc8-f7743d09cc20" name="Changes" comment="" />
+    <list default="true" id="5224bc70-9f3d-4711-8cc8-f7743d09cc20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exp1ConvergenceGA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exp1ConvergenceGA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exp1ConvergenceHeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exp1ConvergenceHeur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exp2DatasetSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exp2DatasetSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exp3DatasetKind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exp3DatasetKind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exp4SLAParem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exp4SLAParem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exp5AlgorithmParem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exp5AlgorithmParem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exp6TimeLoose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exp6TimeLoose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exp7Heurcheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exp7Heurcheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExpForCplex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExpForCplex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExpForGA_BigJobs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExpForGA_BigJobs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExpForJobSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExpForJobSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exptest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exptest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Parameters4Solver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Parameters4Solver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ServiceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ServiceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SolverCplex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SolverCplex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SolverGAH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SolverGAH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SolverHeuristic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SolverHeuristic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WorkflowInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WorkflowInfo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +33,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2dJQWphp5ESeKWiMDXRcVGCahuY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +47,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/idea java project/MDP-LPR/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea java project\MDP-LPR\src\main\java" />
+      <recent name="D:\idea java project\MDP-LPR\src\main\resources" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +73,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709723737700</updated>
+      <workItem from="1709723739373" duration="3480000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

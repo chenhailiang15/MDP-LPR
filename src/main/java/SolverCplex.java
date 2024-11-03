@@ -1,6 +1,3 @@
-package Paper1;
-
-
 import ilog.concert.IloNumExpr;
 import ilog.concert.IloNumVar;
 import ilog.concert.IloNumVarType;

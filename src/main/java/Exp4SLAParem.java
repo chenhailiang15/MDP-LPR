@@ -1,7 +1,3 @@
-package Paper1;
-
-
-
 import java.io.File;
 import java.io.FileWriter;
 import java.text.SimpleDateFormat;
